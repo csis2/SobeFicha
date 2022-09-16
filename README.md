@@ -1,2 +1,2 @@
 # SobeFicha
-A descrição desse utilitário se encontra no subdiretório "doc" no
+A descrição desse utilitário se encontra no diretório "doc" no repositório.
